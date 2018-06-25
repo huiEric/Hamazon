@@ -1,0 +1,6 @@
+[0530/021043.788:ERROR:process_info.cc(359)] UncheckedAllocate
+[0530/021043.976:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: 无法解析服务器的名称或地址 (0x2ee7)
+[0530/021402.631:ERROR:process_info.cc(359)] UncheckedAllocate
+[0602/093343.022:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: 操作超时 (0x2ee2)
+[0602/215810.922:ERROR:process_info.cc(359)] UncheckedAllocate
+[0602/215832.096:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: 操作超时 (0x2ee2)
